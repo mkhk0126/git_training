@@ -4,3 +4,4 @@ Added third line!!!!
 Added more text for rebase test vs partrick branch
 Added changes via github online!
 changed from remote!
+another change from remote
