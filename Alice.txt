@@ -12,3 +12,4 @@ two more!!
 one more!!
 rebase test4 using master
 rebase test5 using master
+rebase test6 using master
