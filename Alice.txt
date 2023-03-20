@@ -10,3 +10,4 @@ add more conflicts at remote
 let's create some conflicts!!!
 two more!!
 one more!!
+rebase test4 using master
