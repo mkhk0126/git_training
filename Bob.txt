@@ -1,3 +1,4 @@
 Hi! I'm Bobby. I've been here for a while now.
 Modified Bob.txt to test divergent!!!
 Let's add another line
+let's test the reset commands
